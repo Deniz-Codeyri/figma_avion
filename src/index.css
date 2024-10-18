@@ -1,0 +1,11 @@
+@font-face {
+  font-family: acme;
+  src: url(./assets/Acme-Regular.ttf);
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: acme;
+}

@@ -1,0 +1,40 @@
+
+header{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.bcg{
+    width: 100%;
+    /* position: relative; */
+    
+}
+.img_parent{
+    position: relative;
+}
+
+.header_text{
+    margin-inline: 70px;
+    border: 3px solid rgba(249, 249, 249, 1);
+    position: absolute;
+    right: 0;
+    top: 400px;
+    width: 600px;
+    height: 450px;
+    background-color: white;
+    padding-block: 50px;
+    padding-inline: 70px;
+}
+.header_text h3{
+    font-size: 17px;
+    margin-top: 20px;
+}
+.header_text button{
+    margin-top: 150px;
+    background-color: rgba(249, 249, 249, 1);
+    width: 120px;
+    height: 40px;
+    border-radius: 15px;
+    border-color: rgba(249, 249, 249, 1);
+    
+}
