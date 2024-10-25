@@ -1,0 +1,28 @@
+{
+   "cards":[
+        {
+            "id":0,
+            "img":"https://s3-alpha-sig.figma.com/img/a2ef/009a/842fec031ef0c247df24214e05b47e70?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BVsN5wMQJ86FcIlIH45jSwiCwh0bVKgDmqxS7VgExME3UWsSSE17gNaA~3277~RtsAiIlYfjPfeajMeBUTuEuseuG7G81yJSOd5eYANB-1ZLUFhp2awGz9uEk2vvxn2VX1ZDUi8AMuFWuXebm3UWl5f68MnAVAiVNB8ybizy35xXw6LIaKobU6y-O4WYNDpjhW8gZwIBrrQR1zPHFZCxF2n4zCcdnUtaXejG2CJkfpru9IlLXTFKf3FITbFOn9h~-4edkuXYyHbF9bhvOjpmGzClwuWfxcw73rupfrJ-CiWmNzBk3awDy5gFKC5e7UrtgHoHj0YOlBF7KuxIL1tbYQ__",
+            "name":"The Dandy chair",
+            "price":250
+        },
+        {
+            "id":1,
+            "img":"https://s3-alpha-sig.figma.com/img/f9f6/09a6/3811628ae03b0a862e160e2eae36dcdd?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QYPqjB2b0sd~5BsXLxCIzcjTZq1V26HdHTHiiNG~vbbzq8WqRBzvRqSno-IxI79gNk~DMdHfPwqGsx3j8QGvMcctgHf53B8TlSInNPTgb-9KLfgOoJwZUFrKQa6u0YyaMI1azGg~b2DkSCODvlmHn2cxglN-v~EUD52WS0kfV4Le-BUtNg~ODqXNZSjzairnaPEz1vC-anpV0YE8SjD0GkvM6J9XEs~UuZ-ztZz9rOzvUeTqTc2qVqCPchIcSlmDjJCbLH9G9v9boWO8exZy9gKEB3HNzbsgwiE66WPJMRey3hL-fd65btbKmCly~ecBXqOarYhR9ycQGXgu7JkbeQ__",
+            "name":"Rustic Vase Set",
+            "price":155
+        },
+        {
+            "id":2,
+            "img":"https://s3-alpha-sig.figma.com/img/cd2d/4a69/fe1e8e060432bf77cee26297ca43e0e6?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RS8NLj~Rvrq7URjckL1wb7ad0QWuK5gmAesQwq0NFVBJs8cqnprvQGBALB~uy73IYhMzyg5HmENC441DJfYo9qZT8gdT6JZX0u167puszWguTlCqKDqq7eIRaRQlD1E~WIRHrfrSSd04R4BV~k5f91MT4KyP4Cl4~NlcEgZpP9vdDq8AKlNRi06-SX1epVAemmkAjUCb7mekeIxrcfdc6V6Qx9r51QBPqJjQ8TB5ckVkh7axnEvqkdyUTols9-8kecFZSDdnOYK6KuH6SOAQiSkonLmmWYUnSCHVj5a1RnmpBv~1jxPR38Dgfo~xMvrDSGPvr2PqjID3N7WiasRkRw__",
+            "name":"The Silky Vase",
+            "price":125
+        },
+        {
+            "id":3,
+            "img":"https://s3-alpha-sig.figma.com/img/4747/f0e8/ffbabae5de21ee1b8c8ca6e83dd10f51?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gqj2bJLQ8Nmy4nJYFCLFMdESP34KXBMpw0kfdzUn288FyJ5otBuQbs1FEceCyQ6DwlZIFvN~Nr1RbNkh2XllaNuGbwVf-Wsmlmnhfu0UrIX1yDOSjl7LVNl8v5EzlbJxWib3-D3Vh-lfHZyzNw1Qba1Ax8-OdDwOIJDua0n0GSOtbxZv-UEg5C6V0EhN8zVJ9IfdxPr7ZrjQ91Yo-0rxj3a1eAf0iA9LDdBQ8-gn-7T~u73cQgkvUU~lPXgDSeWnSamzZPHJrec2ziCzpWl1zZeBKaxx7y4i4i~~7jFJMhMXG3~VPVRmQWZSh6PoeR2YAB7NH09jxOSGy~MLrAkMYQ__",
+            "name":"The Lucy Lamp",
+            "price":399
+        }
+    ]
+}
